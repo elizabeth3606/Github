@@ -17,9 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_baddie1","order":3,"path":"objects/obj_baddie1/obj_baddie1.yy",},
     {"name":"obj_explorer","order":1,"path":"objects/obj_explorer/obj_explorer.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"obj_door","order":4,"path":"objects/obj_door/obj_door.yy",},
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"spr_baddie1","order":8,"path":"sprites/spr_baddie1/spr_baddie1.yy",},
+    {"name":"spr_door","order":9,"path":"sprites/spr_door/spr_door.yy",},
     {"name":"spr_explorerd","order":2,"path":"sprites/spr_explorerd/spr_explorerd.yy",},
     {"name":"spr_explorerl","order":4,"path":"sprites/spr_explorerl/spr_explorerl.yy",},
     {"name":"spr_explorerr","order":5,"path":"sprites/spr_explorerr/spr_explorerr.yy",},
