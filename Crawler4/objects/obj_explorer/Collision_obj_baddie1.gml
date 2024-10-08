@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-path_start(pth_baddie1, 10, path_action_reverse, true);
+obj_explorer.x= 92;
+obj_explorer.y =853;

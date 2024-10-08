@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_explorer","path":"objects/obj_explorer/obj_explorer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_objectivebackground",
+  "eventList":[],
   "managed":true,
-  "name":"obj_door",
+  "name":"obj_objectivebackground",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_door",
-    "path":"sprites/spr_door/spr_door.yy",
+    "name":"spr_objectivebackground",
+    "path":"sprites/spr_objectivebackground/spr_objectivebackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,
