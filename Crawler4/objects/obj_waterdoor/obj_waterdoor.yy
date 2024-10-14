@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_waterdoor",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_explorer","path":"objects/obj_explorer/obj_explorer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_waterdoor",
   "overriddenProperties":[],
@@ -26,8 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"spr_waterdoor",
+    "path":"sprites/spr_waterdoor/spr_waterdoor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
