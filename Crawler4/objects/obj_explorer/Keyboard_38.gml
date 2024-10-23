@@ -8,4 +8,4 @@ image_speed = 1;
 if(place_free(x, y - my_speed))
 {
 	y -= my_speed;
-}
+} 

@@ -5,7 +5,7 @@ if(sprite_index != spr_explorerl)
 	sprite_index = spr_explorerl;
 }
 image_speed = 1;
-if(place_free(x, y))
+if(place_free(x, y)==true)
 {
 	x -= my_speed;
 }
