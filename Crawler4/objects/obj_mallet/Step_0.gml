@@ -13,7 +13,7 @@ else if (angle ==false){
 }*/
 /*image_angle+=10*/
 
-if(image_xscale<=5&&grow){
+/*if(image_xscale<=5&&grow){
 image_xscale+=0.1;
 } else if(image_xscale>=5)
 {
@@ -21,4 +21,4 @@ image_xscale+=0.1;
 }
 if(image_xscale>=5) {
 grow = false
-} 
+} */
