@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_baddie2",
+  "%Name":"obj_icebullet",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_baddie2",
+  "name":"obj_icebullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sharkfin",
-    "path":"sprites/spr_sharkfin/spr_sharkfin.yy",
+    "name":"spr_icebullet",
+    "path":"sprites/spr_icebullet/spr_icebullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

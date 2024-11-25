@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_baddie2",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_watergun",
+  "eventList":[],
   "managed":true,
-  "name":"obj_baddie2",
+  "name":"obj_watergun",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sharkfin",
-    "path":"sprites/spr_sharkfin/spr_sharkfin.yy",
+    "name":"spr_watergun",
+    "path":"sprites/spr_watergun/spr_watergun.yy",
   },
   "spriteMaskId":null,
   "visible":true,
