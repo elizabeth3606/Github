@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Crawler4",
   "resources":[
@@ -42,6 +42,7 @@
     {"id":{"name":"obj_explorer","path":"objects/obj_explorer/obj_explorer.yy",},},
     {"id":{"name":"obj_global","path":"objects/obj_global/obj_global.yy",},},
     {"id":{"name":"obj_goldkey","path":"objects/obj_goldkey/obj_goldkey.yy",},},
+    {"id":{"name":"obj_icebullet","path":"objects/obj_icebullet/obj_icebullet.yy",},},
     {"id":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},},
     {"id":{"name":"obj_mallet","path":"objects/obj_mallet/obj_mallet.yy",},},
     {"id":{"name":"obj_mask","path":"objects/obj_mask/obj_mask.yy",},},
@@ -55,7 +56,6 @@
     {"id":{"name":"obj_waterdoor","path":"objects/obj_waterdoor/obj_waterdoor.yy",},},
     {"id":{"name":"obj_watergun","path":"objects/obj_watergun/obj_watergun.yy",},},
     {"id":{"name":"obj_waterkey","path":"objects/obj_waterkey/obj_waterkey.yy",},},
-    {"id":{"name":"obj_icebullet","path":"objects/obj_icebullet/obj_icebullet.yy",},},
     {"id":{"name":"pth_baddie1","path":"paths/pth_baddie1/pth_baddie1.yy",},},
     {"id":{"name":"pth_baddie2","path":"paths/pth_baddie2/pth_baddie2.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
