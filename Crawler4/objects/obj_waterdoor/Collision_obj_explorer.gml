@@ -4,3 +4,8 @@ if(obj_waterkey.x == 95)
 {
 	instance_destroy();
 }
+else 
+{
+	obj_explorer.x=x+64;
+}
+
