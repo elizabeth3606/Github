@@ -3,3 +3,4 @@
 global.haskey=false;
 global.angle=true;
 global.has_boomkey = false;
+global.has_watergun = false;

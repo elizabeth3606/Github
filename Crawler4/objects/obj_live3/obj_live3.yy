@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_watergun",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_explorer","path":"objects/obj_explorer/obj_explorer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_live3",
+  "eventList":[],
   "managed":true,
-  "name":"obj_watergun",
+  "name":"obj_live3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_watergun",
-    "path":"sprites/spr_watergun/spr_watergun.yy",
+    "name":"spr_lives",
+    "path":"sprites/spr_lives/spr_lives.yy",
   },
   "spriteMaskId":null,
   "visible":true,
