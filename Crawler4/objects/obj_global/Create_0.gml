@@ -4,3 +4,8 @@ global.haskey=false;
 global.angle=true;
 global.has_boomkey = false;
 global.has_watergun = false;
+global.health = 60;
+if     (obj_explorer.x= 96 && obj_explorer.y =864){
+	global.health = 60;
+}
+	
