@@ -10,8 +10,8 @@
   "name":"obj_waterkey",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"keys",
+    "path":"folders/Objects/keys.yy",
   },
   "parentObjectId":null,
   "persistent":false,

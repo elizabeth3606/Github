@@ -6,8 +6,8 @@
   "name":"obj_objectivebackground",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"map",
+    "path":"folders/Objects/map.yy",
   },
   "parentObjectId":null,
   "persistent":false,

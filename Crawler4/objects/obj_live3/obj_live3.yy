@@ -6,8 +6,8 @@
   "name":"obj_live3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"lives",
+    "path":"folders/Objects/lives.yy",
   },
   "parentObjectId":null,
   "persistent":false,
