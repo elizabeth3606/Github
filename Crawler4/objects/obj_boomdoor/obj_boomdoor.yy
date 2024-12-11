@@ -8,8 +8,8 @@
   "name":"obj_boomdoor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"doors",
+    "path":"folders/Objects/doors.yy",
   },
   "parentObjectId":null,
   "persistent":false,

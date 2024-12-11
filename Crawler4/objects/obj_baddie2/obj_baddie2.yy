@@ -9,8 +9,8 @@
   "name":"obj_baddie2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"baddies",
+    "path":"folders/Objects/baddies.yy",
   },
   "parentObjectId":null,
   "persistent":false,
