@@ -13,7 +13,8 @@ if (!collision_disabled) {
 		obj_boomkey.y=512
 		obj_watergun.x=992
 		obj_watergun.y=224
-		
+		global.has_boomkey=false
+		global.haskey=false;
     } else if (lives <= 0)
 	{
 		room_goto(rm_failed);
