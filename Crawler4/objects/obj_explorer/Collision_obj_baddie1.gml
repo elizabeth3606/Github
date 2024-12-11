@@ -11,6 +11,8 @@ if (!collision_disabled) {
 		obj_waterkey.y=736
 		obj_boomkey.x=224
 		obj_boomkey.y=512
+		obj_watergun.x=992
+		obj_watergun.y=224
 		
     } else if (lives <= 0)
 	{
