@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_live1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_gameover",
+  "eventList":[],
   "managed":true,
-  "name":"obj_live1",
+  "name":"obj_gameover",
   "overriddenProperties":[],
   "parent":{
-    "name":"lives",
-    "path":"folders/Objects/lives.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lives",
-    "path":"sprites/spr_lives/spr_lives.yy",
+    "name":"spr_gameover",
+    "path":"sprites/spr_gameover/spr_gameover.yy",
   },
   "spriteMaskId":null,
   "visible":true,

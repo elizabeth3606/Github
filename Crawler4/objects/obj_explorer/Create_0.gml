@@ -3,7 +3,9 @@
 image_speed = 0;
 my_speed = 8;
 
+collision_disabled = false;
 
-lives = 6
+lives = 6;
+
 //hp = 60;          // Starting health, can be changed to any value
 //max_hp = 60;      // Maximum health (for health bar scaling)
