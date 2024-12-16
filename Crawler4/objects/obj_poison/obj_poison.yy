@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_live1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_poison",
+  "eventList":[],
   "managed":true,
-  "name":"obj_live1",
+  "name":"obj_poison",
   "overriddenProperties":[],
   "parent":{
-    "name":"lives",
-    "path":"folders/Objects/lives.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_lives",
-    "path":"sprites/spr_lives/spr_lives.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
