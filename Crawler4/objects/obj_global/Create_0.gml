@@ -9,4 +9,5 @@ global.hasmallet = false;
 if     (obj_explorer.x= 96 && obj_explorer.y =864){
 	global.health = 60;
 }
+
 	

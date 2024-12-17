@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door",
+  "%Name":"obj_danielisfat_3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_explorer","path":"objects/obj_explorer/obj_explorer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_door",
+  "name":"obj_danielisfat_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"doors",
-    "path":"folders/Objects/doors.yy",
+    "name":"group1",
+    "path":"folders/Objects/group1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_door",
-    "path":"sprites/spr_door/spr_door.yy",
+    "name":"Sprite44",
+    "path":"sprites/Sprite44/Sprite44.yy",
   },
   "spriteMaskId":null,
   "visible":true,
