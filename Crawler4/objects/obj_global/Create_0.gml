@@ -9,5 +9,10 @@ global.hasmallet = false;
 if     (obj_explorer.x= 96 && obj_explorer.y =864){
 	global.health = 60;
 }
-
-	
+global.dfat1 = false
+global.dfat2 = false
+global.dfat3 = false
+global.dfat4 = false
+global.dfat5 = false
+global.dfat6 = false
+global.dfat7 = false
