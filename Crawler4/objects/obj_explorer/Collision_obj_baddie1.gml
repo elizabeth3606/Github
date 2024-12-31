@@ -19,6 +19,9 @@ if (!collision_disabled) {
 	{
 		room_goto(rm_failed);
 	}
+if (!audio_is_playing(snd_yeow)) {
+    audio_play_sound(snd_yeow, 1, false); // Play the sound
+}
 
     // Temporarily disable collision and set alarm
     collision_disabled = true;

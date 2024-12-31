@@ -78,6 +78,7 @@
     {"name":"bgm_level1","order":1,"path":"sounds/bgm_level1/bgm_level1.yy",},
     {"name":"bgm_underwater","order":2,"path":"sounds/bgm_underwater/bgm_underwater.yy",},
     {"name":"snd_click","order":3,"path":"sounds/snd_click/snd_click.yy",},
+    {"name":"snd_yeow","order":4,"path":"sounds/snd_yeow/snd_yeow.yy",},
     {"name":"spr_baddie2","order":1,"path":"sprites/spr_baddie2/spr_baddie2.yy",},
     {"name":"spr_bg","order":4,"path":"sprites/spr_bg/spr_bg.yy",},
     {"name":"spr_burn","order":8,"path":"sprites/spr_burn/spr_burn.yy",},

@@ -107,6 +107,7 @@
     {"id":{"name":"bgm_start_menu","path":"sounds/bgm_start_menu/bgm_start_menu.yy",},},
     {"id":{"name":"bgm_underwater","path":"sounds/bgm_underwater/bgm_underwater.yy",},},
     {"id":{"name":"snd_click","path":"sounds/snd_click/snd_click.yy",},},
+    {"id":{"name":"snd_yeow","path":"sounds/snd_yeow/snd_yeow.yy",},},
     {"id":{"name":"spr_baddie1","path":"sprites/spr_baddie1/spr_baddie1.yy",},},
     {"id":{"name":"spr_baddie2","path":"sprites/spr_baddie2/spr_baddie2.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
