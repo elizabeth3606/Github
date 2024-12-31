@@ -60,6 +60,8 @@
     {"id":{"name":"obj_boomdoor","path":"objects/obj_boomdoor/obj_boomdoor.yy",},},
     {"id":{"name":"obj_boomkey","path":"objects/obj_boomkey/obj_boomkey.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
+    {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},},
+    {"id":{"name":"obj_coral","path":"objects/obj_coral/obj_coral.yy",},},
     {"id":{"name":"obj_danielisfat_1","path":"objects/obj_danielisfat_1/obj_danielisfat_1.yy",},},
     {"id":{"name":"obj_danielisfat_2","path":"objects/obj_danielisfat_2/obj_danielisfat_2.yy",},},
     {"id":{"name":"obj_danielisfat_3","path":"objects/obj_danielisfat_3/obj_danielisfat_3.yy",},},
@@ -113,6 +115,8 @@
     {"id":{"name":"spr_burn","path":"sprites/spr_burn/spr_burn.yy",},},
     {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},},
     {"id":{"name":"spr_clone","path":"sprites/spr_clone/spr_clone.yy",},},
+    {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},},
+    {"id":{"name":"spr_coral","path":"sprites/spr_coral/spr_coral.yy",},},
     {"id":{"name":"spr_dash","path":"sprites/spr_dash/spr_dash.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_explode","path":"sprites/spr_explode/spr_explode.yy",},},
@@ -160,8 +164,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
-    {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_failed","path":"rooms/rm_failed/rm_failed.yy",},},
+    {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
