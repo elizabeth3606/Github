@@ -6,8 +6,8 @@
   "name":"obj_gameover",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"text",
+    "path":"folders/Objects/text.yy",
   },
   "parentObjectId":null,
   "persistent":false,
