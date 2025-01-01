@@ -119,6 +119,7 @@
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"bgm_level1","path":"sounds/bgm_level1/bgm_level1.yy",},},
+    {"id":{"name":"bgm_level2","path":"sounds/bgm_level2/bgm_level2.yy",},},
     {"id":{"name":"bgm_start_menu","path":"sounds/bgm_start_menu/bgm_start_menu.yy",},},
     {"id":{"name":"bgm_underwater","path":"sounds/bgm_underwater/bgm_underwater.yy",},},
     {"id":{"name":"snd_click","path":"sounds/snd_click/snd_click.yy",},},

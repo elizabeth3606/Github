@@ -85,6 +85,7 @@
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"rm_level2","order":4,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"bgm_level1","order":1,"path":"sounds/bgm_level1/bgm_level1.yy",},
+    {"name":"bgm_level2","order":5,"path":"sounds/bgm_level2/bgm_level2.yy",},
     {"name":"bgm_underwater","order":2,"path":"sounds/bgm_underwater/bgm_underwater.yy",},
     {"name":"snd_click","order":3,"path":"sounds/snd_click/snd_click.yy",},
     {"name":"snd_yeow","order":4,"path":"sounds/snd_yeow/snd_yeow.yy",},
