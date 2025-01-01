@@ -13,7 +13,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"text",
-    "path":"folders/Objects/text.yy",
+    "path":"folders/Objects/level1/text.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

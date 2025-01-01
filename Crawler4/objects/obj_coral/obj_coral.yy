@@ -6,8 +6,8 @@
   "name":"obj_coral",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"map",
+    "path":"folders/Objects/level1/map.yy",
   },
   "parentObjectId":null,
   "persistent":false,

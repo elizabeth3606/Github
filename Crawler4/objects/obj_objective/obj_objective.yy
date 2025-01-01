@@ -8,8 +8,8 @@
   "name":"obj_objective",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"objectives",
+    "path":"folders/Objects/level1/objectives.yy",
   },
   "parentObjectId":null,
   "persistent":false,

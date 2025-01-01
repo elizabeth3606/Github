@@ -33,7 +33,7 @@
   "origin":4,
   "parent":{
     "name":"weapons",
-    "path":"folders/Sprites/weapons.yy",
+    "path":"folders/Sprites/level1/weapons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -8,8 +8,8 @@
   "name":"obj_global",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tech",
+    "path":"folders/Objects/level1/tech.yy",
   },
   "parentObjectId":null,
   "persistent":false,

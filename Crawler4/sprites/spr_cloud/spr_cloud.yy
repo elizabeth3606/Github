@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"tech",
-    "path":"folders/Sprites/tech.yy",
+    "path":"folders/Sprites/level1/tech.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

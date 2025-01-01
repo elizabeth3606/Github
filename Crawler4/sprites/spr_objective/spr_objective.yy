@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"backgrounds",
-    "path":"folders/Sprites/backgrounds.yy",
+    "path":"folders/Sprites/level1/backgrounds.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"lives",
-    "path":"folders/Sprites/lives.yy",
+    "path":"folders/Sprites/level1/lives.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

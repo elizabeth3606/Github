@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"text",
-    "path":"folders/Objects/text.yy",
+    "path":"folders/Objects/level1/text.yy",
   },
   "parentObjectId":null,
   "persistent":false,

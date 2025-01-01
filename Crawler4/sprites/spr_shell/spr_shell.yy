@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"misc",
-    "path":"folders/Sprites/misc.yy",
+    "path":"folders/Sprites/level1/misc.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

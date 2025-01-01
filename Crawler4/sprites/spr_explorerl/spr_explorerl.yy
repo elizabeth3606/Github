@@ -33,7 +33,7 @@
   "origin":4,
   "parent":{
     "name":"explorer",
-    "path":"folders/Sprites/explorer.yy",
+    "path":"folders/Sprites/level1/explorer.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

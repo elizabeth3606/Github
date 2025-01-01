@@ -30,7 +30,7 @@
   "origin":4,
   "parent":{
     "name":"texts",
-    "path":"folders/Sprites/texts.yy",
+    "path":"folders/Sprites/level1/texts.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"map",
-    "path":"folders/Objects/map.yy",
+    "path":"folders/Objects/level1/map.yy",
   },
   "parentObjectId":null,
   "persistent":false,

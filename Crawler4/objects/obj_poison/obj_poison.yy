@@ -6,8 +6,8 @@
   "name":"obj_poison",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"icons",
+    "path":"folders/Objects/level1/icons.yy",
   },
   "parentObjectId":null,
   "persistent":false,

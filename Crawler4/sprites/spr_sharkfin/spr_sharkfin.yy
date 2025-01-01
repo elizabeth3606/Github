@@ -33,7 +33,7 @@
   "origin":4,
   "parent":{
     "name":"baddies",
-    "path":"folders/Sprites/baddies.yy",
+    "path":"folders/Sprites/level1/baddies.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

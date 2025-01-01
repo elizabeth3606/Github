@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"keys",
-    "path":"folders/Sprites/keys.yy",
+    "path":"folders/Sprites/level1/keys.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
