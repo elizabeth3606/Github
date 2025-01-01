@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_pinkfloor",
-    "path":"sprites/spr_pinkfloor/spr_pinkfloor.yy",
+    "name":"spr_pinkwall",
+    "path":"sprites/spr_pinkwall/spr_pinkwall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
