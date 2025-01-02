@@ -9,3 +9,7 @@ lives = 6;
 
 //hp = 60;          // Starting health, can be changed to any value
 //max_hp = 60;      // Maximum health (for health bar scaling)
+
+show_text = false; // Controls if the text should be shown
+blink_timer = 0;   // Timer for blinking effect
+blink_state = true; // Tracks whether the text is visible or not
