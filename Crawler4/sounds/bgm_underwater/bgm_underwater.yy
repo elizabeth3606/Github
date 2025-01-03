@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":59.611427,
+  "duration":0.0,
   "name":"bgm_underwater",
   "parent":{
     "name":"Sounds",
