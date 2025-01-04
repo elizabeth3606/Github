@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_shell",
-    "path":"sprites/spr_shell/spr_shell.yy",
+    "name":"spr_pinkshell",
+    "path":"sprites/spr_pinkshell/spr_pinkshell.yy",
   },
   "spriteMaskId":null,
   "visible":true,

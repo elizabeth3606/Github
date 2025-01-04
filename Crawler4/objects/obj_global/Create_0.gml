@@ -16,4 +16,8 @@ global.dfat4 = false
 global.dfat5 = false
 global.dfat6 = false
 global.dfat7 = false
+global.dfat8=false
+global.dfat9=false
+global.dfat10=false
 
+global.clam=false
