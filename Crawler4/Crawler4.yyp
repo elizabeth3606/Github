@@ -67,11 +67,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Crawler4",
   "resources":[
     {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},},
+    {"id":{"name":"fnt_inv","path":"fonts/fnt_inv/fnt_inv.yy",},},
     {"id":{"name":"obj_baddie1","path":"objects/obj_baddie1/obj_baddie1.yy",},},
     {"id":{"name":"obj_baddie2","path":"objects/obj_baddie2/obj_baddie2.yy",},},
     {"id":{"name":"obj_blossombranch","path":"objects/obj_blossombranch/obj_blossombranch.yy",},},
@@ -100,6 +101,7 @@
     {"id":{"name":"obj_global","path":"objects/obj_global/obj_global.yy",},},
     {"id":{"name":"obj_goldkey","path":"objects/obj_goldkey/obj_goldkey.yy",},},
     {"id":{"name":"obj_icebullet","path":"objects/obj_icebullet/obj_icebullet.yy",},},
+    {"id":{"name":"obj_inv_manager","path":"objects/obj_inv_manager/obj_inv_manager.yy",},},
     {"id":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},},
     {"id":{"name":"obj_kelp1","path":"objects/obj_kelp1/obj_kelp1.yy",},},
     {"id":{"name":"obj_kelp2","path":"objects/obj_kelp2/obj_kelp2.yy",},},

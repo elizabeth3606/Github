@@ -51,6 +51,7 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fnt_inv","order":1,"path":"fonts/fnt_inv/fnt_inv.yy",},
     {"name":"obj_baddie2","order":1,"path":"objects/obj_baddie2/obj_baddie2.yy",},
     {"name":"obj_coral","order":5,"path":"objects/obj_coral/obj_coral.yy",},
     {"name":"obj_danielisfat_1","order":1,"path":"objects/obj_danielisfat_1/obj_danielisfat_1.yy",},
@@ -70,6 +71,7 @@
     {"name":"obj_gameover","order":5,"path":"objects/obj_gameover/obj_gameover.yy",},
     {"name":"obj_global","order":1,"path":"objects/obj_global/obj_global.yy",},
     {"name":"obj_goldkey","order":1,"path":"objects/obj_goldkey/obj_goldkey.yy",},
+    {"name":"obj_inv_manager","order":23,"path":"objects/obj_inv_manager/obj_inv_manager.yy",},
     {"name":"obj_inventory","order":2,"path":"objects/obj_inventory/obj_inventory.yy",},
     {"name":"obj_kelp1","order":2,"path":"objects/obj_kelp1/obj_kelp1.yy",},
     {"name":"obj_kelp2","order":3,"path":"objects/obj_kelp2/obj_kelp2.yy",},
