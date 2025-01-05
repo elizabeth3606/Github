@@ -11,3 +11,5 @@ button_x = 0;
 button_y = 0;
 show_text = false;  // Initially hide the text
 timer = 0;  // Timer for how long the text stays visible
+global.has_elixir = false
+global.live_flowers = 0;
