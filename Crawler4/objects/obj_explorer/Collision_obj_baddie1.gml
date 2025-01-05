@@ -2,9 +2,9 @@
 // You can write your code in this editor
 // Example of taking damage when colliding with an enemy
 if (!collision_disabled) {
-    lives--; // Decrease health
+    global.lives--; // Decrease health
 
-    if (lives == 4 || lives == 2) {
+    if (global.lives == 4 || global.lives == 2) {
         obj_explorer.x = 96;
         obj_explorer.y = 864;
 		obj_waterkey.x=544
@@ -15,7 +15,7 @@ if (!collision_disabled) {
 		obj_watergun.y=224
 		global.has_boomkey=false
 		global.haskey=false;
-    } else if (lives <= 0)
+    } else if (global.lives <= 0)
 	{
 		room_goto(rm_failed);
 	}

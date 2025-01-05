@@ -68,7 +68,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Crawler4",
   "resources":[
@@ -118,6 +118,7 @@
     {"id":{"name":"obj_live1","path":"objects/obj_live1/obj_live1.yy",},},
     {"id":{"name":"obj_live2","path":"objects/obj_live2/obj_live2.yy",},},
     {"id":{"name":"obj_live3","path":"objects/obj_live3/obj_live3.yy",},},
+    {"id":{"name":"obj_lives_manager","path":"objects/obj_lives_manager/obj_lives_manager.yy",},},
     {"id":{"name":"obj_mallet","path":"objects/obj_mallet/obj_mallet.yy",},},
     {"id":{"name":"obj_objective","path":"objects/obj_objective/obj_objective.yy",},},
     {"id":{"name":"obj_objectivebackground","path":"objects/obj_objectivebackground/obj_objectivebackground.yy",},},

@@ -3,8 +3,8 @@
 //obj_waterkey.x=95
 //obj_waterkey.y=150
 event_inherited();
-ds_map_add(global.inventory, "waterkey", true);
-ds_list_add(global.inv_sprites, "spr_waterkey");
 
-global.has_waterkey = true
-instance_destroy()
+var inv_manager = instance_find(obj_inv_manager, 0);
+inv_manager.add_item("spr_waterkey")
+
+x = -1000;

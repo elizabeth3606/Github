@@ -84,6 +84,7 @@
     {"name":"obj_level2bg","order":1,"path":"objects/obj_level2bg/obj_level2bg.yy",},
     {"name":"obj_live2","order":1,"path":"objects/obj_live2/obj_live2.yy",},
     {"name":"obj_live3","order":2,"path":"objects/obj_live3/obj_live3.yy",},
+    {"name":"obj_lives_manager","order":6,"path":"objects/obj_lives_manager/obj_lives_manager.yy",},
     {"name":"obj_mallet","order":3,"path":"objects/obj_mallet/obj_mallet.yy",},
     {"name":"obj_objective","order":1,"path":"objects/obj_objective/obj_objective.yy",},
     {"name":"obj_objectivebackground","order":1,"path":"objects/obj_objectivebackground/obj_objectivebackground.yy",},

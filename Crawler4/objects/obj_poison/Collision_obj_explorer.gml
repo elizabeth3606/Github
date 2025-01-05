@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-ds_map_add(global.inventory, "poison", true);
-ds_list_add(global.inv_sprites, "spr_poison_icon");
-instance_destroy()
+var inv_manager = instance_find(obj_inv_manager, 0);
+inv_manager.add_item("spr_poison");
+x = -1000;
 event_inherited()

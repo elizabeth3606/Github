@@ -3,8 +3,9 @@
 ds_map_add(global.inventory, "goldkey", true);
 ds_list_add(global.inv_sprites, "spr_goldkey");
 
-global.has_goldkey = true
+var inv_manager = instance_find(obj_inv_manager, 0);
+inv_manager.add_item("spr_goldkey")
+
 event_inherited();
 
-instance_destroy();
-global.hasgoldkey = true
+x = -1000;
