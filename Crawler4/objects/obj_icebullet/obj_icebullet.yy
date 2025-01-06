@@ -13,7 +13,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"weapons",
-    "path":"folders/Objects/level1/weapons.yy",
+    "path":"folders/Objects/level1/inv/weapons.yy",
   },
   "parentObjectId":null,
   "persistent":false,

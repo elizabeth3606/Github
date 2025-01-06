@@ -7,6 +7,8 @@ ds_list_add(global.inv_sprites, "spr_pearl");
 
 global.has_pearl = true
 
+var inv_manager = instance_find(obj_inv_manager, 0);
+inv_manager.add_item("spr_pearl")
 // Change the sprite of all instances of obj_target
 with (obj_openshell) {
     sprite_index = spr_openshell_1;

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_baddie1",
-    "path":"sprites/spr_baddie1/spr_baddie1.yy",
+    "name":"spr_baddie_jellyfish",
+    "path":"sprites/spr_baddie_jellyfish/spr_baddie_jellyfish.yy",
   },
   "spriteMaskId":null,
   "visible":true,

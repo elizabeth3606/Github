@@ -7,14 +7,9 @@ if (!collision_disabled) {
     if (global.lives == 4 || global.lives == 2) {
         obj_explorer.x = 96;
         obj_explorer.y = 864;
-		obj_waterkey.x=544
-		obj_waterkey.y=736
-		obj_boomkey.x=224
-		obj_boomkey.y=512
-		obj_watergun.x=992
-		obj_watergun.y=224
-		global.has_boomkey=false
-		global.haskey=false;
+		
+		
+		
     } else if (global.lives <= 0)
 	{
 		room_goto(rm_failed);

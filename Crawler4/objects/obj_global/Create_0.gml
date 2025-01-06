@@ -3,7 +3,7 @@
 global.haskey=false;
 global.angle=true;
 
-
+// these should all not be used bc of the current inv system
 global.has_boomkey = false;
 global.has_goldkey=false
 global.has_watergun = false;

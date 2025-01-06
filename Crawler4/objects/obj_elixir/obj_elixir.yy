@@ -11,7 +11,10 @@
     "name":"misc",
     "path":"folders/Objects/level2/misc.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_key_parent",
+    "path":"objects/obj_key_parent/obj_key_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

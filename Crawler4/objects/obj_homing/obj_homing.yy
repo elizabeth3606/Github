@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"icons",
-    "path":"folders/Objects/level1/icons.yy",
+    "path":"folders/Objects/level1/inv/icons.yy",
   },
   "parentObjectId":{
     "name":"obj_collect_parent",

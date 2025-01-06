@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(global.has_boomkey)
+if(global.inventory[? "spr_boomkey"])
 {
 	instance_destroy();
 }

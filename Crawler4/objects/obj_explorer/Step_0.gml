@@ -48,4 +48,37 @@ if (flower != noone) { // Check if there's a flower instance in the room
 } else {
     show_text = false;
 }
+if (keyboard_check_pressed(ord("Q")) && place_meeting(x, y, obj_guardian_monkey)) {
+    if global.live_flowers != 9 {
+        show_text_2 = true;
+        alarm[0] = room_speed * 5;
+    }
+}
 
+var monkey = instance_nearest(x, y, obj_guardian_monkey);
+
+if (monkey != noone) { // Check if there's a flower instance in the room
+    var distance = point_distance(x, y, monkey.x, monkey.y);
+
+    if (distance < 50) { // Adjust the range
+        show_text_2 = true;
+
+        if (keyboard_check_pressed(ord("Q"))) {
+            // Interaction logic here
+            show_debug_message("Interacted with monkey!");
+        }
+    } else {
+        show_text_2 = false;
+    }
+} else {
+    show_text_2 = false;
+}
+if (show_text_2) {
+    blink_timer++;
+    
+    // Toggle the blink state every 15 frames
+    if (blink_timer_2 >= 15) {
+        blink_state_2 = !blink_state_2; // Toggle visibility
+        blink_timer_2 = 0;           // Reset timer
+    }
+}

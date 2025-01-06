@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"keys",
-    "path":"folders/Objects/level1/keys.yy",
+    "path":"folders/Objects/level1/inv/keys.yy",
   },
   "parentObjectId":{
     "name":"obj_key_parent",

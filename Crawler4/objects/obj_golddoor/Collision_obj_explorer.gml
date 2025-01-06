@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-if global.has_goldkey
+if global.inventory[? "spr_goldkey"]
 	instance_destroy();
