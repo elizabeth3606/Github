@@ -60,8 +60,8 @@
     {"$GMFolder":"","%Name":"walls","folderPath":"folders/Sprites/level1/walls.yy","name":"walls","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"weapons","folderPath":"folders/Sprites/level1/weapons.yy","name":"weapons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"level2","folderPath":"folders/Sprites/level2.yy","name":"level2","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"flowers","folderPath":"folders/Sprites/level2/flowers.yy","name":"flowers","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"creature","folderPath":"folders/Sprites/level2/creature.yy","name":"creature","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"flowers","folderPath":"folders/Sprites/level2/flowers.yy","name":"flowers","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"misc","folderPath":"folders/Sprites/level2/misc.yy","name":"misc","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"walls_2","folderPath":"folders/Sprites/level2/walls_2.yy","name":"walls_2","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -71,7 +71,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Crawler4",
   "resources":[
@@ -238,8 +238,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
-    {"roomId":{"name":"rm_failed","path":"rooms/rm_failed/rm_failed.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
+    {"roomId":{"name":"rm_failed","path":"rooms/rm_failed/rm_failed.yy",},},
     {"roomId":{"name":"rm_boss","path":"rooms/rm_boss/rm_boss.yy",},},
   ],
   "templateType":"game",
