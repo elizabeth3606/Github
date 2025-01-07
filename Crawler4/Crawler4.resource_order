@@ -54,6 +54,7 @@
   "ResourceOrderSettings":[
     {"name":"fnt_inv","order":1,"path":"fonts/fnt_inv/fnt_inv.yy",},
     {"name":"obj_baddie2","order":1,"path":"objects/obj_baddie2/obj_baddie2.yy",},
+    {"name":"obj_boss","order":1,"path":"objects/obj_boss/obj_boss.yy",},
     {"name":"obj_collect_parent","order":3,"path":"objects/obj_collect_parent/obj_collect_parent.yy",},
     {"name":"obj_coral","order":5,"path":"objects/obj_coral/obj_coral.yy",},
     {"name":"obj_danielisfat_1","order":1,"path":"objects/obj_danielisfat_1/obj_danielisfat_1.yy",},
@@ -122,6 +123,7 @@
     {"name":"spr_baddie_jellyfish","order":3,"path":"sprites/spr_baddie_jellyfish/spr_baddie_jellyfish.yy",},
     {"name":"spr_baddie2","order":1,"path":"sprites/spr_baddie2/spr_baddie2.yy",},
     {"name":"spr_bg","order":4,"path":"sprites/spr_bg/spr_bg.yy",},
+    {"name":"spr_boss","order":16,"path":"sprites/spr_boss/spr_boss.yy",},
     {"name":"spr_coral","order":4,"path":"sprites/spr_coral/spr_coral.yy",},
     {"name":"spr_dash_icon","order":1,"path":"sprites/spr_dash_icon/spr_dash_icon.yy",},
     {"name":"spr_dash","order":5,"path":"sprites/spr_dash/spr_dash.yy",},
