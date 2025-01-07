@@ -15,9 +15,9 @@ else {
 }
 
 // Define your boundaries (e.g., room bounds or custom limits)
-var min_x = 64;
-var max_x = 832;
-var min_y = 192;
+var min_x = 128;
+var max_x = 785;
+var min_y = 248;
 var max_y = 896;
 
 // Restrict X movement

@@ -60,7 +60,7 @@ var monkey = instance_nearest(x, y, obj_guardian_monkey);
 if (monkey != noone) { // Check if there's a flower instance in the room
     var distance = point_distance(x, y, monkey.x, monkey.y);
 
-    if (distance < 50) { // Adjust the range
+    if (distance < 100) { // Adjust the range
         show_text_2 = true;
 
         if (keyboard_check_pressed(ord("Q"))) {
@@ -74,7 +74,7 @@ if (monkey != noone) { // Check if there's a flower instance in the room
     show_text_2 = false;
 }
 if (show_text_2) {
-    blink_timer++;
+    blink_timer_2++;
     
     // Toggle the blink state every 15 frames
     if (blink_timer_2 >= 15) {

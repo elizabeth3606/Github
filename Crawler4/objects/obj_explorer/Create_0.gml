@@ -17,3 +17,6 @@ blink_state = true; // Tracks whether the text is visible or not
 show_text_2 = false
 blink_timer_2 = 0;   // Timer for blinking effect
 blink_state_2 = true; 
+
+ouched = false; // Initially not invincible
+image_alpha = 1; // Fully visible by default

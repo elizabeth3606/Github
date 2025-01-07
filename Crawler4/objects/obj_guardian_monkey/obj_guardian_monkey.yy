@@ -32,7 +32,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_guardian_monkey",
     "path":"sprites/spr_guardian_monkey/spr_guardian_monkey.yy",

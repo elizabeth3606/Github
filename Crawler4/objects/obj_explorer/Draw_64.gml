@@ -4,24 +4,32 @@ if (show_text && blink_state) { // Only draw text if blinking state is true
     draw_set_font(fnt_default); // Use default font or your custom font
     draw_set_color(c_white); // Set text color
 
-    // Convert world coordinates to screen coordinates
-    var screen_x = obj_explorer.x - camera_get_view_x(view_camera[0]);
-    var screen_y = obj_explorer.y - sprite_height - 10 - camera_get_view_y(view_camera[0]);
+    // Get the flower's current coordinates
+    var flower_x = obj_flower.x;
+    var flower_y = obj_flower.y;
 
-    // Draw the text above the sprite
-    draw_text(x-sprite_width-40, y - sprite_height - 10, "Press E to interact"); // Text above the player
+    // Draw the text above the flower (adjust 'y' to position the text above it)
+    draw_text(flower_x - string_width("Press E to interact") / 2, flower_y - 30, "Press E to interact");
 }
-show_debug_message("show_text: " + string(show_text) + ", blink_state: " + string(blink_state));
 
+//show_debug_message("show_text: " + string(show_text) + ", blink_state: " + string(blink_state));
+
+
+//show_debug_message("show_text: " + string(show_text) + ", blink_state: " + string(blink_state));
 if (show_text_2 && blink_state_2) { // Only draw text if blinking state is true
     draw_set_font(fnt_default); // Use default font or your custom font
     draw_set_color(c_white); // Set text color
 
-    // Convert world coordinates to screen coordinates
-    var screen_x_2 = obj_explorer.x - camera_get_view_x(view_camera[0]);
-    var screen_y_2 = obj_explorer.y - sprite_height - 10 - camera_get_view_y(view_camera[0]);
+    // Convert the monkey's world coordinates to screen coordinates
+    var screen_x_2 = obj_guardian_monkey.x +112 - camera_get_view_x(view_camera[0]) ;
+    
+    // Adjust the vertical position to bring text closer to the monkey
+    var screen_y_2 = obj_guardian_monkey.y +30 - camera_get_view_y(view_camera[0]); // Adjust this value to position text closer
 
-    // Draw the text above the sprite
-    draw_text(x-sprite_width-40, y - sprite_height - 10, "Press Q to interact"); // Text above the player
+    // Draw the text above the monkey
+    draw_text(screen_x_2, screen_y_2, "Press Q to interact");
 }
-show_debug_message("show_text_2: " + string(show_text_2) + ", blink_state_2: " + string(blink_state_2));
+
+
+
+//show_debug_message("show_text_2: " + string(show_text_2) + ", blink_state_2: " + string(blink_state_2));
