@@ -18,7 +18,7 @@ image_angle = point_direction(x, y, player.x, player.y);
 
 if (self.health < 0) {
 	instance_destroy();
-	// goto room success here
+	room_goto(rm_success);
 }
 
 

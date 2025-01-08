@@ -3,7 +3,11 @@
 if (keyboard_check_pressed(ord("Q"))) {
   show_debug_message(global.live_flower);  
   if (global.live_flowers == 9) {
-		instance_destroy()
+		with (obj_evil_mouse) {
+		sprite_index = spr_evil_mouse;
+		}
+
+		//instance_destroy()
 		 show_text = true; // Show text
         alarm[0] = room_speed * 5; // Set alarm for 5 seconds
   }else  {
@@ -30,8 +34,5 @@ if (keyboard_check_pressed(ord("Q"))) {
 	
 }
 //global.mouse=true
-with (obj_evil_mouse) {
-    sprite_index = spr_evil_mouse;
-}
 
 //instance_destroy()

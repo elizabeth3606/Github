@@ -59,6 +59,9 @@ if (monkey != noone) { // Check if there's a flower instance in the room
 
         if (keyboard_check_pressed(ord("Q"))) {
 			if (global.live_flowers > 0) { // change this to not 0
+				with (obj_evil_mouse) {
+				sprite_index = spr_evil_mouse;
+			}
 				monkey.x = -1000;
 			}
 		else {
