@@ -27,3 +27,15 @@ if (x > max_x) x = max_x;
 // Restrict Y movement
 if (y < min_y) y = min_y;
 if (y > max_y) y = max_y;
+
+// make sure mouse is upright
+if (image_angle > 90 and image_angle < 270) {
+	image_xscale = -1;
+}
+else {
+	image_xscale = 1;
+}
+
+if (self.health < 0) {
+	instance_destroy();
+}

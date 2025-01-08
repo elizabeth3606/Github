@@ -71,7 +71,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Crawler4",
   "resources":[
@@ -104,6 +104,7 @@
     {"id":{"name":"obj_evil_mouse","path":"objects/obj_evil_mouse/obj_evil_mouse.yy",},},
     {"id":{"name":"obj_explorer","path":"objects/obj_explorer/obj_explorer.yy",},},
     {"id":{"name":"obj_fallingpetals","path":"objects/obj_fallingpetals/obj_fallingpetals.yy",},},
+    {"id":{"name":"obj_fireball","path":"objects/obj_fireball/obj_fireball.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_flower","path":"objects/obj_flower/obj_flower.yy",},},
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
@@ -187,6 +188,7 @@
     {"id":{"name":"spr_explorerl","path":"sprites/spr_explorerl/spr_explorerl.yy",},},
     {"id":{"name":"spr_explorerr","path":"sprites/spr_explorerr/spr_explorerr.yy",},},
     {"id":{"name":"spr_exploreru","path":"sprites/spr_exploreru/spr_exploreru.yy",},},
+    {"id":{"name":"spr_fireball","path":"sprites/spr_fireball/spr_fireball.yy",},},
     {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
     {"id":{"name":"spr_goback_room1","path":"sprites/spr_goback_room1/spr_goback_room1.yy",},},
     {"id":{"name":"spr_goldkey","path":"sprites/spr_goldkey/spr_goldkey.yy",},},
@@ -238,11 +240,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
-    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
-    {"roomId":{"name":"rm_failed","path":"rooms/rm_failed/rm_failed.yy",},},
     {"roomId":{"name":"rm_boss","path":"rooms/rm_boss/rm_boss.yy",},},
+    {"roomId":{"name":"rm_failed","path":"rooms/rm_failed/rm_failed.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -48,12 +48,6 @@ if (flower != noone) { // Check if there's a flower instance in the room
 } else {
     show_text = false;
 }
-if (keyboard_check_pressed(ord("Q")) && place_meeting(x, y, obj_guardian_monkey)) {
-    if global.live_flowers != 9 {
-        show_text_2 = true;
-        alarm[0] = room_speed * 5;
-    }
-}
 
 var monkey = instance_nearest(x, y, obj_guardian_monkey);
 
@@ -64,8 +58,12 @@ if (monkey != noone) { // Check if there's a flower instance in the room
         show_text_2 = true;
 
         if (keyboard_check_pressed(ord("Q"))) {
-            // Interaction logic here
-            show_debug_message("Interacted with monkey!");
+			if (global.live_flowers > 0) { // change this to not 0
+				monkey.x = -1000;
+			}
+		else {
+			show_text_2 = true;
+		}
         }
     } else {
         show_text_2 = false;
