@@ -108,6 +108,7 @@
     {"name":"pth_baddie2","order":1,"path":"paths/pth_baddie2/pth_baddie2.yy",},
     {"name":"rm_boss","order":5,"path":"rooms/rm_boss/rm_boss.yy",},
     {"name":"rm_failed","order":3,"path":"rooms/rm_failed/rm_failed.yy",},
+    {"name":"rm_howto","order":7,"path":"rooms/rm_howto/rm_howto.yy",},
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"rm_level2","order":4,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"rm_success","order":6,"path":"rooms/rm_success/rm_success.yy",},
