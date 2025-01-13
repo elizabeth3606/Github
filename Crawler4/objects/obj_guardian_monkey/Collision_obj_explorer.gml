@@ -36,3 +36,7 @@ if (keyboard_check_pressed(ord("Q"))) {
 //global.mouse=true
 
 //instance_destroy()
+if (global.inventory[? "spr_dash_icon"]) {
+	show_debug_message("heehee")
+	other.my_speed = 10;
+}

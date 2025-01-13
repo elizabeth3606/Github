@@ -7,7 +7,7 @@ if (instance_nearest(player.x, player.y, obj_evil_mouse) != noone) {
 	return;
 }
 	
-
+//obj_explorer.my_speed = 8;
 room_goto(rm_boss)
 // Play sound without looping
 	audio_stop_all();

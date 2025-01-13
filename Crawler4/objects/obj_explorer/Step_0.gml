@@ -83,3 +83,7 @@ if (show_text_2) {
         blink_timer_2 = 0;           // Reset timer
     }
 }
+//if (global.inventory[? "spr_dash_icon"]) {
+	//show_debug_message("heehee")
+	//my_speed = 10;
+//}

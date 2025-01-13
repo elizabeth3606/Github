@@ -14,7 +14,12 @@ if (global.lives > 1) {
 		room_goto(rm_failed);
 	}
 	
-
+if (global.inventory[? "spr_poison_icon"]) {
+	show_debug_message("pooooison")
+	sprite_index = spr_evil_mouse_1
+	self.health -= 10
+	alarm[5]=room_speed*5
+}
 
 // Handle game over when lives reach 0
 if (global.lives <= 0) {

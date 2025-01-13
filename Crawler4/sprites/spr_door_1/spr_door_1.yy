@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_door_1",
-  "bboxMode":0,
+  "bboxMode":1,
   "bbox_bottom":63,
   "bbox_left":0,
   "bbox_right":63,
@@ -23,7 +23,7 @@
   ],
   "name":"spr_door_1",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"doors",
     "path":"folders/Sprites/level1/doors.yy",
@@ -75,8 +75,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":32,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
