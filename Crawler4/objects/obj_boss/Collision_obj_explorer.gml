@@ -1,3 +1,5 @@
+/// @description Insert description here
+// You can write your code in this editor
 if (other.ouched) {
     return; // Skip if the explorer is invincible
 }
@@ -16,7 +18,7 @@ if (global.lives > 1) {
 	
 if (global.inventory[? "spr_poison_icon"]) {
 	show_debug_message("pooooison")
-	sprite_index = spr_evil_mouse_1
+	sprite_index = spr_boss_1
 	self.health -= 10
 	alarm[5]=room_speed*3
 }
