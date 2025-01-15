@@ -83,7 +83,12 @@ if (show_text_2) {
         blink_timer_2 = 0;           // Reset timer
     }
 }
-//if (global.inventory[? "spr_dash_icon"]) {
+if (global.inventory[? "spr_dash_icon"]) {
 	//show_debug_message("heehee")
-	//my_speed = 10;
-//}
+	if (!keyboard_check(vk_space)) {
+		my_speed = 16;
+	}
+	else {
+		my_speed = 8;
+	}
+}
