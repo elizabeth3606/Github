@@ -10,7 +10,7 @@ if (!collision_disabled) {
 				
 		
 		
-    } else if (global.lives <= 0)
+    } else if (global.lives <= 1)
 	{
 		room_goto(rm_failed);
 	}

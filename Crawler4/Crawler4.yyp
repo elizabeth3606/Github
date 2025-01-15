@@ -72,7 +72,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Crawler4",
   "resources":[
@@ -194,6 +194,7 @@
     {"id":{"name":"spr_evil_mouse_1","path":"sprites/spr_evil_mouse_1/spr_evil_mouse_1.yy",},},
     {"id":{"name":"spr_evil_mouse_still","path":"sprites/spr_evil_mouse_still/spr_evil_mouse_still.yy",},},
     {"id":{"name":"spr_evil_mouse","path":"sprites/spr_evil_mouse/spr_evil_mouse.yy",},},
+    {"id":{"name":"spr_explorerd_1","path":"sprites/spr_explorerd_1/spr_explorerd_1.yy",},},
     {"id":{"name":"spr_explorerd","path":"sprites/spr_explorerd/spr_explorerd.yy",},},
     {"id":{"name":"spr_explorerl","path":"sprites/spr_explorerl/spr_explorerl.yy",},},
     {"id":{"name":"spr_explorerr","path":"sprites/spr_explorerr/spr_explorerr.yy",},},
@@ -252,6 +253,7 @@
     {"id":{"name":"spr_waterkey","path":"sprites/spr_waterkey/spr_waterkey.yy",},},
     {"id":{"name":"Sprite44","path":"sprites/Sprite44/Sprite44.yy",},},
     {"id":{"name":"Sprite73","path":"sprites/Sprite73/Sprite73.yy",},},
+    {"id":{"name":"Sprite81","path":"sprites/Sprite81/Sprite81.yy",},},
     {"id":{"name":"ts_floor","path":"tilesets/ts_floor/ts_floor.yy",},},
   ],
   "resourceType":"GMProject",

@@ -142,6 +142,7 @@
     {"name":"spr_evil_mouse_1","order":3,"path":"sprites/spr_evil_mouse_1/spr_evil_mouse_1.yy",},
     {"name":"spr_evil_mouse_still","order":2,"path":"sprites/spr_evil_mouse_still/spr_evil_mouse_still.yy",},
     {"name":"spr_evil_mouse","order":1,"path":"sprites/spr_evil_mouse/spr_evil_mouse.yy",},
+    {"name":"spr_explorerd_1","order":5,"path":"sprites/spr_explorerd_1/spr_explorerd_1.yy",},
     {"name":"spr_explorerl","order":1,"path":"sprites/spr_explorerl/spr_explorerl.yy",},
     {"name":"spr_explorerr","order":2,"path":"sprites/spr_explorerr/spr_explorerr.yy",},
     {"name":"spr_exploreru","order":3,"path":"sprites/spr_exploreru/spr_exploreru.yy",},
@@ -189,5 +190,6 @@
     {"name":"spr_waterkey","order":2,"path":"sprites/spr_waterkey/spr_waterkey.yy",},
     {"name":"Sprite44","order":3,"path":"sprites/Sprite44/Sprite44.yy",},
     {"name":"Sprite73","order":19,"path":"sprites/Sprite73/Sprite73.yy",},
+    {"name":"Sprite81","order":4,"path":"sprites/Sprite81/Sprite81.yy",},
   ],
 }
