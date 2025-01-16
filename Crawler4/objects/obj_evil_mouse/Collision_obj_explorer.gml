@@ -1,7 +1,9 @@
 if (other.ouched) {
     return; // Skip if the explorer is invincible
 }
-
+if (!audio_is_playing(snd_yeow)) {
+    audio_play_sound(snd_yeow, 1, false); // Play the sound
+}
 // Check if lives are greater than 0
 if (global.lives > 1) {
     global.lives -= 1; // Decrease one life

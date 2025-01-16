@@ -1,5 +1,5 @@
 self.moving = true;
-self.health = 100;
+self.health = 75;
 self.shooting = false;
 self.frames = 0;
 
